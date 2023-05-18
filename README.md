@@ -1,8 +1,11 @@
-### 🕵️‍♂️ Hotakus
+___
+# 🕵️‍♂️ Hotakus
 
+___
+
+<img src='https://github-readme-stats.vercel.app/api?username=hotakus&show_icons=true&theme=calm' width=400  align='right'>
 
 ### 📰 Basic info:
-<img src='https://github-readme-stats.vercel.app/api?username=hotakus&show_icons=true&theme=calm' width=400 align='right'>
 - 👬 **Gender** : Helicopter 🚁
 - 😍 **Hobby** : Hardwares and Softwares
 - 📬 **Gmail** : ttowfive@gmail.com
