@@ -16,8 +16,6 @@ ___
 - 📫 **Foxmail** : Hotakus@foxmail.com
 - 🕹 **Steam** : Hotakus (code: 894883509)
 
-
-
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=hotakus&layout=compact&theme=calm' width=340 align='right'>
 
 ### 💪 Abilities:
