@@ -14,7 +14,6 @@ ___
 - 📬 **Gmail** : ttowfive@gmail.com
 - 📫 **Foxmail** : Hotakus@foxmail.com
 - 🕹 **Steam** : Hotakus (code: 894883509)
-- 🔍 **CSDN** : [Personal profile](https://blog.csdn.net/qq_26106317?spm=1010.2135.3001.5421)
 
 
 ### 💪 Abilities:
