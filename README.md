@@ -18,8 +18,9 @@ ___
 
 <br>
 
-### 💪 Abilities:
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=hotakus&layout=compact&theme=calm' width=330 align='right'>
+
+### 💪 Abilities:
 
 - s
 - s
