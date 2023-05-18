@@ -4,9 +4,10 @@ ___
 ___
 
 
+<img src='https://github-readme-stats.vercel.app/api?username=hotakus&show_icons=true&theme=calm' width=430 align='right'>
 
 ### 📰 Basic info:
-<img src='https://github-readme-stats.vercel.app/api?username=hotakus&show_icons=true&theme=calm' width=430 align='right'>
+
 
 - 👬 **Gender** : Helicopter 🚁
 - 😍 **Hobby** : Hardwares and Softwares
