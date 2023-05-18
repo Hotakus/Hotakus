@@ -11,6 +11,7 @@ ___
 
 - 👬 **Gender** : Helicopter 🚁
 - 😍 **Hobby** : Hardwares and Softwares
+- 🐱 **Cat** : No yet, but I will get one.
 - 📬 **Gmail** : ttowfive@gmail.com
 - 📫 **Foxmail** : Hotakus@foxmail.com
 - 🕹 **Steam** : Hotakus (code: 894883509)
