@@ -18,7 +18,7 @@ ___
 
 
 
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=hotakus&layout=compact&theme=calm' width=300 align='right'>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=hotakus&layout=compact&theme=calm' width=340 align='right'>
 
 ### 💪 Abilities:
 
