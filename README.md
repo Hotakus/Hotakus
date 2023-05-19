@@ -3,7 +3,7 @@
 
 ---
 
-<img src='https://github-readme-stats.vercel.app/api?username=hotakus&show_icons=true&theme=calm&border_radius=10' width=430 align='right'>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=hotakus&layout=donut&theme=calm&border_radius=10'  align='right'>
 
 ### 📰 Basic info:
 - 👬 **Gender** : Helicopter 🚁
@@ -13,7 +13,7 @@
 - 📫 **Foxmail** : Hotakus@foxmail.com
 - 🕹 **Steam** : Hotakus (code: 894883509)
 
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=hotakus&layout=compact&theme=calm&border_radius=10' width=320 align='right'>
+<img src='https://github-readme-stats.vercel.app/api?username=hotakus&show_icons=true&theme=calm&border_radius=10' width=430 align='right'>
 
 ### 💪 Abilities:
 - 🔌 **E**mbedded System Design
