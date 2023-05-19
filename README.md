@@ -18,7 +18,7 @@
 
 
 ### 💪 Abilities:
-<img src='https://github-readme-stats.vercel.app/api?username=hotakus&show_icons=true&theme=calm&border_radius=10' width=400 align='right'>
+<img src='https://github-readme-stats.vercel.app/api?username=hotakus&show_icons=true&theme=calm&border_radius=10' width=350 align='right'>
 
 - 🔌 **E**mbedded System Design
 - 🖥 **C**/C++、Python
