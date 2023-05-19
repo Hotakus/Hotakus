@@ -15,9 +15,11 @@
 
 <br>
 
-<img src='https://github-readme-stats.vercel.app/api?username=hotakus&show_icons=true&theme=calm&border_radius=10' width=430 align='right'>
+
 
 ### 💪 Abilities:
+<img src='https://github-readme-stats.vercel.app/api?username=hotakus&show_icons=true&theme=calm&border_radius=10' width=430 align='right'>
+
 - 🔌 **E**mbedded System Design
 - 🖥 **C**/C++、Python
 - 🎮 **S**ome experience of Game Develop
