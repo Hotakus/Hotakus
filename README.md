@@ -13,10 +13,6 @@
 - 📫 **Foxmail** : Hotakus@foxmail.com
 - 🕹 **Steam** : Hotakus (code: 894883509)
 
-<br>
-
-
-
 ### 💪 Abilities:
 <img src='https://github-readme-stats.vercel.app/api?username=hotakus&show_icons=true&theme=calm&border_radius=10' width=350 align='right'>
 
@@ -26,7 +22,6 @@
 - 📚 **A**mateur of English translation 
 - 🖊 **P**ractice of drawing (Not good, but like it) 
 - 🎲 Rubik's Cube
-
 
 ### ⌨ Some websites about me
 <img src='https://github.com/Hotakus/Hotakus/blob/output/github-contribution-grid-snake-dark.svg' width=450 align='right'>
