@@ -31,7 +31,7 @@
 
 ---
 
-[![](https://github-readme-stats.vercel.app/api/wakatime?username=hotakus)](https://github.com/hotakus)
+[![](https://github-readme-stats.vercel.app/api/wakatime?username=Hotakus)](https://github.com/hotakus)
 
 
 
