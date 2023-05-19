@@ -25,6 +25,7 @@
 - 🎮 **S**ome experience of Game Develop
 - 📚 **A**mateur of English translation 
 - 🖊 **P**ractice of drawing (Not good, but like it) 
+- 🎲 Rubik's Cube
 
 <br>
 
