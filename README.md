@@ -33,10 +33,10 @@
 
 <div align='center'>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width=300 src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img align="center" width=300 src="https://github-readme-stats.vercel.app/api/pin/?username=hotakus&repo=STM32_LCD1602_Drive" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img align="center" width=300 src="https://github-readme-stats.vercel.app/api/pin/?username=hotakus&repo=stm32f405_lvgl_example" />
 </a>
 </div>
 
