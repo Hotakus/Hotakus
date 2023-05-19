@@ -32,9 +32,9 @@
 ---
 
 <a href="https://github.com/hotakus/STM32_LCD1602_Drive">
-            <img align="right" width=350 hight=300
+            <img align="right" width=550 
               src="https://github-readme-stats.vercel.app/api/pin/?username=hotakus&repo=STM32_LCD1602_Drive&theme=calm" />
-            <img align="left" width=350 hight=300
+            <img align="left" width=550 
               src="https://github-readme-stats.vercel.app/api/pin/?username=hotakus&repo=STM32_LCD1602_Drive&theme=calm" />
  </a>
 
