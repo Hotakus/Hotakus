@@ -27,7 +27,6 @@
 - 🖊 **P**ractice of drawing (Not good, but like it) 
 - 🎲 Rubik's Cube
 
-<br>
 
 ### ⌨ Some websites about me
 <img src='https://github.com/Hotakus/Hotakus/blob/output/github-contribution-grid-snake-dark.svg' width=450 align='right'>
