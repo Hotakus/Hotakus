@@ -31,11 +31,6 @@
 
 ---
 
-<a href="https://github.com/hotakus/STM32_LCD1602_Drive">
-            <img align="right" width=330 src="https://github-readme-stats.vercel.app/api/pin/?username=hotakus&repo=STM32_LCD1602_Drive&theme=calm" />
-            <img align="left" width=330 src="https://github-readme-stats.vercel.app/api/pin/?username=hotakus&repo=STM32_LCD1602_Drive&theme=calm" />
- </a>
-
 <!-- [![](https://github-readme-stats.vercel.app/api/wakatime?username=Hotakus)](https://github.com/hotakus) -->
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
