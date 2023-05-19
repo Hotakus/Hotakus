@@ -3,7 +3,7 @@
 
 ---
 
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=hotakus&layout=donut&theme=calm&border_radius=10'  align='right'>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=hotakus&layout=donut&theme=calm&border_radius=10' width=350  align='right'>
 
 ### 📰 Basic info:
 - 👬 **Gender** : Helicopter 🚁
@@ -18,13 +18,15 @@
 
 
 ### 💪 Abilities:
-<img src='https://github-readme-stats.vercel.app/api?username=hotakus&show_icons=true&theme=calm&border_radius=10' width=430 align='right'>
+<img src='https://github-readme-stats.vercel.app/api?username=hotakus&show_icons=true&theme=calm&border_radius=10' width=400 align='right'>
 
 - 🔌 **E**mbedded System Design
 - 🖥 **C**/C++、Python
 - 🎮 **S**ome experience of Game Develop
 - 📚 **A**mateur of English translation 
 - 🖊 **P**ractice of drawing (Not good, but like it) 
+
+<br>
 
 <img src='https://github.com/Hotakus/Hotakus/blob/output/github-contribution-grid-snake-dark.svg' width=450 align='right'>
 
