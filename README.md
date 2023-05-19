@@ -22,7 +22,7 @@
 - 🎲 Rubik's Cube
 
 ### ⌨ Some websites about me
-<img src='https://github.com/Hotakus/Hotakus/blob/output/github-contribution-grid-snake-dark.svg' width=650 align='right'>
+<img src='https://github.com/Hotakus/Hotakus/blob/output/github-contribution-grid-snake-dark.svg' width=450 align='right'>
 
 | <img src='https://www.codewars.com/packs/assets/logo.61192cf7.svg' width=15 > [CodeWars](https://www.codewars.com/users/Hotakus) |<img src='https://www.codewars.com/users/Hotakus/badges/micro' width=150 >|  
 | :---- | :----: | 
