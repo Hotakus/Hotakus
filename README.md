@@ -31,10 +31,18 @@
 
 ---
 
-[![](https://github-readme-stats.vercel.app/api/wakatime?username=Hotakus)](https://github.com/hotakus)
+<div align='center'>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" width=300 src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+</div>
 
 
 
+<!-- [![](https://github-readme-stats.vercel.app/api/wakatime?username=Hotakus)](https://github.com/hotakus) -->
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
