@@ -32,8 +32,6 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2026%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-736-blue)
 
 📊 **This Week I Spent My Time On** 
@@ -47,12 +45,16 @@ ObjectiveC               53 mins             ████░░░░░░░�
 Other                    20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
 C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
+🐱‍💻 Projects: 
+codewar_kata_c           5 hrs 5 mins        ███████████████████████░░   93.63 % 
+Hotakus                  20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+
 💻 Operating System: 
 Windows                  5 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 20/05/2023 00:47:17 UTC
+ Last Updated on 20/05/2023 00:54:10 UTC
 <!--END_SECTION:waka-->
 
 ---
