@@ -16,7 +16,7 @@
 
 - 🔌 **E**mbedded System Design
 - 🖥 **C**/C++、Python
-- 🎮 **S**ome experience of Game Develop
+- 🎮 **S**ome experience of Game Develop (such as Godot, unity)
 - 📚 **A**mateur of English translation 
 - 🖊 **P**ractice of drawing (Not good, but like it) 
 - 🎲 Rubik's Cube
