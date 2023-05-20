@@ -31,20 +31,9 @@
 
 ---
 
-<!-- [![](https://github-readme-stats.vercel.app/api/wakatime?username=Hotakus)](https://github.com/hotakus) -->
-
 <!--START_SECTION:waka-->
 
-```text
-From: 18 May 2023 - To: 19 May 2023
 
-Total Time: 5 hrs 26 mins
-
-C            4 hrs 11 mins   >>>>>>>>>>>>>>>>>>>------   77.15 %
-ObjectiveC   53 mins         >>>>---------------------   16.43 %
-Other        20 mins         >>-----------------------   06.37 %
-C++          0 secs          -------------------------   00.05 %
-```
 
 <!--END_SECTION:waka-->
 
