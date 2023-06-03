@@ -32,7 +32,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-33-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-23-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -40,17 +40,18 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C                        2 mins              ████████████████████░░░░░   79.91 % 
+ObjectiveC               0 secs              █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+codewar_kata_c           3 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  3 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 03/06/2023 12:21:14 UTC
+ Last Updated on 03/06/2023 18:13:37 UTC
 <!--END_SECTION:waka-->
 
 ---
