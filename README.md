@@ -32,7 +32,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-250-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-113-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -50,7 +50,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 02/06/2023 18:14:09 UTC
+ Last Updated on 03/06/2023 01:10:54 UTC
 <!--END_SECTION:waka-->
 
 ---
