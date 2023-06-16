@@ -1,20 +1,8 @@
 ---
 ## 🕵️‍♂️ Hotakus 
 
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=hotakus&layout=compact&theme=calm&border_radius=10&langs_count=6#gh-dark-mode-only' width=350  align='right'>
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=hotakus&layout=compact&theme=default&border_radius=10&langs_count=6#gh-light-mode-only' width=350  align='right'>
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hotakus&layout=compact&theme=calm&border_radius=10&langs_count=6#gh-dark-mode-only"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hotakus&layout=compact&theme=calm&border_radius=10&langs_count=6"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=hotakus&layout=compact&theme=calm&border_radius=10&langs_count=6' width=350 align='right'>
-</picture>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=hotakus&layout=compact&theme=calm&border_radius=10#gh-dark-mode-only' width=350  align='right'>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=hotakus&layout=compact&theme=default&border_radius=10#gh-light-mode-only' width=350  align='right'>
 
 ### 📰 Basic info:
 - 👬 **Gender** : Helicopter 🚁
