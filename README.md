@@ -23,6 +23,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=hotakus&show_icons=true&theme=default&border_radius=10"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
+  <img src='https://github-readme-stats.vercel.app/api?username=hotakus&show_icons=true&theme=calm&border_radius=10#gh-dark-mode-only' width=350 align='right'>
 </picture>
 
 - 🔌 **E**mbedded System Design
