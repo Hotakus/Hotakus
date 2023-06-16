@@ -1,7 +1,8 @@
 ---
 ## 🕵️‍♂️ Hotakus 
 
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=hotakus&layout=compact&theme=calm&border_radius=10&langs_count=6' width=350  align='right'>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=hotakus&layout=compact&theme=calm&border_radius=10&langs_count=6#gh-dark-mode-only' width=350  align='right'>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=hotakus&layout=compact&theme=default&border_radius=10&langs_count=6#gh-light-mode-only' width=350  align='right'>
 
 ### 📰 Basic info:
 - 👬 **Gender** : Helicopter 🚁
@@ -12,7 +13,8 @@
 - 🕹 **Steam** : Hotakus (code: 894883509)
 
 ### 💪 Abilities:
-<img src='https://github-readme-stats.vercel.app/api?username=hotakus&show_icons=true&theme=calm&border_radius=10' width=350 align='right'>
+<img src='https://github-readme-stats.vercel.app/api?username=hotakus&show_icons=true&theme=calm&border_radius=10#gh-dark-mode-only' width=350 align='right'>
+<img src='https://github-readme-stats.vercel.app/api?username=hotakus&show_icons=true&theme=default&border_radius=10#gh-light-mode-only' width=350 align='right'>
 
 - 🔌 **E**mbedded System Design
 - 🖥 **C**/C++、Python
