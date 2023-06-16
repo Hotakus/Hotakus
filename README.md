@@ -4,6 +4,18 @@
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=hotakus&layout=compact&theme=calm&border_radius=10&langs_count=6#gh-dark-mode-only' width=350  align='right'>
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=hotakus&layout=compact&theme=default&border_radius=10&langs_count=6#gh-light-mode-only' width=350  align='right'>
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hotakus&layout=compact&theme=calm&border_radius=10&langs_count=6#gh-dark-mode-only"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hotakus&layout=compact&theme=calm&border_radius=10&langs_count=6"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=hotakus&layout=compact&theme=calm&border_radius=10&langs_count=6' width=350 align='right'>
+</picture>
+
 ### 📰 Basic info:
 - 👬 **Gender** : Helicopter 🚁
 - 😍 **Hobby** : Hardwares and Softwares
@@ -23,7 +35,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=hotakus&show_icons=true&theme=default&border_radius=10"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src='https://github-readme-stats.vercel.app/api?username=hotakus&show_icons=true&theme=calm&border_radius=10#gh-dark-mode-only' width=350 align='right'>
+  <img src='https://github-readme-stats.vercel.app/api?username=hotakus&show_icons=true&theme=calm&border_radius=10' width=350 align='right'>
 </picture>
 
 - 🔌 **E**mbedded System Design
