@@ -2,7 +2,6 @@
 ## 🕵️‍♂️ Hotakus 
 
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=hotakus&layout=compact&theme=calm&border_radius=10#gh-dark-mode-only' width=350  align='right'>
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=hotakus&layout=compact&theme=default&border_radius=10#gh-light-mode-only' width=350  align='right'>
 
 ### 📰 Basic info:
 - 👬 **Gender** : Helicopter 🚁
