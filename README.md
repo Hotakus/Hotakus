@@ -44,8 +44,6 @@
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-53-blue)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -71,7 +69,7 @@ Linux                    31 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 25/06/2023 07:55:09 UTC
+ Last Updated on 25/06/2023 07:56:40 UTC
 <!--END_SECTION:waka-->
 
 ---
