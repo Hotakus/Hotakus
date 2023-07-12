@@ -1,5 +1,5 @@
 ---
-## 🕵️‍♂️ Hotakus -- 📚Learning Haskell <img align='right' src="https://visitor-badge.laobi.icu/badge?page_id=hotakus.visitor-badge&left_text=Views&format=true" width=70 >
+## 🕵️‍♂️ Hotakus  <img align='right' src="https://visitor-badge.laobi.icu/badge?page_id=hotakus.visitor-badge&left_text=Views&format=true" width=70 >
 
 <img src='https://github-readme-stats-git-master-hotakus.vercel.app/api/top-langs/?username=hotakus&layout=compact&theme=calm&border_radius=10#gh-dark-mode-only' width=350  align='right'>
 
@@ -26,7 +26,7 @@
 </picture>
 
 - 🔌 **E**mbedded System Design
-- 🖥 **C**/C++、Python
+- 🖥 **C**/C++、Python、Haskell、Rust
 - 🎮 **S**ome experience of Game Develop (such as Godot, unity)
 - 📚 **A**mateur of English translation 
 - 🖊 **P**ractice of drawing (Not good, but like it) 
