@@ -1,7 +1,20 @@
 ---
 ## 🕵️‍♂️ Hotakus  <img align='right' src="https://visitor-badge.laobi.icu/badge?page_id=hotakus.visitor-badge&left_text=Views&format=true" width=70 >
 
-<img src='https://github-readme-stats-git-master-hotakus.vercel.app/api/top-langs/?username=hotakus&layout=compact&hide=html,assembly,php,cmake&theme=calm&border_radius=10#gh-dark-mode-only' width=350  align='right'>
+---
+
+<picture>
+  <source
+    srcset="https://github-readme-stats-git-master-hotakus.vercel.app/api/top-langs/?username=hotakus&layout=compact&hide=html,assembly,php,cmake&border_radius=10&theme=calm"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-git-master-hotakus.vercel.app/api/top-langs/?username=hotakus&layout=compact&hide=html,assembly,php,cmake&border_radius=10"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-git-master-hotakus.vercel.app/api/top-langs/?username=hotakus&layout=compact&hide=html,assembly,php,cmake&border_radius=10" width=350  align='right' />
+</picture>
+
 
 ### 📰 Basic info:
 - 👬 **Gender** : Helicopter 🚁
@@ -12,18 +25,6 @@
 - 🕹 **Steam** : Hotakus (code: 894883509)
 
 ### 💪 Abilities:
-
-<picture>
-  <source
-    srcset="https://github-readme-stats-git-master-hotakus.vercel.app/api/top-langs/?username=hotakus&layout=compact&hide=html,assembly,php,cmake&theme=calm&border_radius=10"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats-git-master-hotakus.vercel.app/api/top-langs/?username=hotakus&layout=compact&hide=html,assembly,php,cmake&theme=default&border_radius=10"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src='https://github-readme-stats-git-master-hotakus.vercel.app/api/top-langs/?username=hotakus&layout=compact&hide=html,assembly,php,cmake&theme=calm&border_radius=10' width=350 align='right'>
-</picture>
 
 <picture>
   <source
