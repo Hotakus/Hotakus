@@ -5,14 +5,14 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats-git-master-hotakus.vercel.app/api/top-langs/?username=hotakus&layout=compact&theme=calm#gh-dark-mode-only"
+    srcset="https://github-readme-stats-git-master-hotakus.vercel.app/api/top-langs/?username=hotakus&hide=html&layout=compact&border_radius=10&theme=calm#gh-dark-mode-only"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats-git-master-hotakus.vercel.app/api/top-langs/?username=hotakus&layout=compact&theme=default#gh-light-mode-only"
+    srcset="https://github-readme-stats-git-master-hotakus.vercel.app/api/top-langs/?username=hotakus&hide=html&layout=compact&border_radius=10&theme=default#gh-light-mode-only"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src='https://github-readme-stats-git-master-hotakus.vercel.app/api/top-langs/?username=hotakus&layout=compact&theme=calm#gh-dark-mode-only' width=350 align='right'>
+  <img src='https://github-readme-stats-git-master-hotakus.vercel.app/api/top-langs/?username=hotakus&layout=compact&border_radius=10&theme=calm#gh-dark-mode-only' width=350 align='right'>
 </picture>
 
 ### 📰 Basic info:
