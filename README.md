@@ -1,7 +1,7 @@
 ---
 ## 🕵️‍♂️ Hotakus  <img align='right' src="https://visitor-badge.laobi.icu/badge?page_id=hotakus.visitor-badge&left_text=Views&format=true" width=70 >
 
-<img src='https://github-readme-stats-git-master-hotakus.vercel.app/api/top-langs/?username=hotakus&layout=compact&theme=calm&border_radius=10#gh-dark-mode-only' width=350  align='right'>
+<img src='https://github-readme-stats-git-master-hotakus.vercel.app/api/top-langs/?username=hotakus&layout=compact&hide=html,assembly,php,cmake&theme=calm&border_radius=10#gh-dark-mode-only' width=350  align='right'>
 
 ### 📰 Basic info:
 - 👬 **Gender** : Helicopter 🚁
@@ -15,14 +15,26 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats-git-master-hotakus.vercel.app/api?username=hotakus&show_icons=true&theme=calm&border_radius=10&hide=html,assembly"
+    srcset="https://github-readme-stats-git-master-hotakus.vercel.app/api/top-langs/?username=hotakus&layout=compact&hide=html,assembly,php,cmake&theme=calm&border_radius=10"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats-git-master-hotakus.vercel.app/api?username=hotakus&show_icons=true&theme=default&border_radius=10&hide=html,assembly"
+    srcset="https://github-readme-stats-git-master-hotakus.vercel.app/api/top-langs/?username=hotakus&layout=compact&hide=html,assembly,php,cmake&theme=default&border_radius=10"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src='https://github-readme-stats-git-master-hotakus.vercel.app/api?username=hotakus&show_icons=true&theme=calm&border_radius=10&hide=html,assembly' width=350 align='right'>
+  <img src='https://github-readme-stats-git-master-hotakus.vercel.app/api/top-langs/?username=hotakus&layout=compact&hide=html,assembly,php,cmake&theme=calm&border_radius=10' width=350 align='right'>
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats-git-master-hotakus.vercel.app/api?username=hotakus&show_icons=true&theme=calm&border_radius=10"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-git-master-hotakus.vercel.app/api?username=hotakus&show_icons=true&theme=default&border_radius=10"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src='https://github-readme-stats-git-master-hotakus.vercel.app/api?username=hotakus&show_icons=true&theme=calm&border_radius=10' width=350 align='right'>
 </picture>
 
 - 🔌 **E**mbedded System Design
