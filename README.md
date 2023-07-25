@@ -15,14 +15,14 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats-git-master-hotakus.vercel.app/api?username=hotakus&show_icons=true&theme=calm&border_radius=10&hide=html"
+    srcset="https://github-readme-stats-git-master-hotakus.vercel.app/api?username=hotakus&show_icons=true&theme=calm&border_radius=10&hide=html,assembly"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats-git-master-hotakus.vercel.app/api?username=hotakus&show_icons=true&theme=default&border_radius=10&hide=html"
+    srcset="https://github-readme-stats-git-master-hotakus.vercel.app/api?username=hotakus&show_icons=true&theme=default&border_radius=10&hide=html,assembly"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src='https://github-readme-stats-git-master-hotakus.vercel.app/api?username=hotakus&show_icons=true&theme=calm&border_radius=10&hide=html' width=350 align='right'>
+  <img src='https://github-readme-stats-git-master-hotakus.vercel.app/api?username=hotakus&show_icons=true&theme=calm&border_radius=10&hide=html,assembly' width=350 align='right'>
 </picture>
 
 - 🔌 **E**mbedded System Design
