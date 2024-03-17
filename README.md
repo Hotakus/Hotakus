@@ -62,17 +62,18 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Properties               10 mins             ██████████████████░░░░░░░   70.07 % 
+Java                     4 mins              ███████░░░░░░░░░░░░░░░░░░   29.93 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+FDCookBook               15 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  15 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 16/03/2024 18:14:17 UTC
+ Last Updated on 17/03/2024 00:57:28 UTC
 <!--END_SECTION:waka-->
 
 ---
