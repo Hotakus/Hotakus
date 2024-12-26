@@ -62,19 +62,17 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C                        1 hr 35 mins        █████████████████░░░░░░░░   66.60 % 
-C++                      47 mins             ████████░░░░░░░░░░░░░░░░░   33.40 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-esp32_motor_foc_example  2 hrs 21 mins       █████████████████████████   99.16 % 
-esp-idf-v5.3.2           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 22 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 25/12/2024 18:19:51 UTC
+ Last Updated on 26/12/2024 01:11:19 UTC
 <!--END_SECTION:waka-->
 
 ---
