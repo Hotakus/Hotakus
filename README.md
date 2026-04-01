@@ -62,17 +62,25 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C                        4 hrs 43 mins       ████████████░░░░░░░░░░░░░   49.49 % 
+C/C++                    4 hrs 2 mins        ███████████░░░░░░░░░░░░░░   42.42 % 
+CMake                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+C/C                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+mt6835                   5 hrs 39 mins       ███████████████░░░░░░░░░░   59.38 % 
+stm32f411ceu6test        3 hrs 46 mins       ██████████░░░░░░░░░░░░░░░   39.59 % 
+stm32g4_uart_test        3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+stm32f411ceu6test_LL     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  9 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 31/03/2026 18:59:42 UTC
+ Last Updated on 01/04/2026 02:28:23 UTC
 <!--END_SECTION:waka-->
 
 ---
