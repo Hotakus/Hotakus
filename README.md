@@ -62,17 +62,23 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C                        4 hrs 21 mins       ██████████████████░░░░░░░   72.29 % 
+C/C++                    48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+Other                    36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+C/C                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+octo-foc                 4 hrs 33 mins       ███████████████████░░░░░░   75.76 % 
+esp32_tt                 1 hr 27 mins        ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
+openthread               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  6 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 27/04/2026 13:48:56 UTC
+ Last Updated on 27/04/2026 19:18:14 UTC
 <!--END_SECTION:waka-->
 
 ---
