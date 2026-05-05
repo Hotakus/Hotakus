@@ -56,8 +56,31 @@
 ---
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 04/05/2026 19:26:31 UTC
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+C                        32 hrs 39 mins      ███████████████░░░░░░░░░░   61.79 % 
+C/C++                    9 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
+Markdown                 3 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+C++                      2 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+Other                    1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+
+🐱‍💻 Projects: 
+esp32_tt                 34 hrs 36 mins      ████████████████░░░░░░░░░   65.48 % 
+octo-foc                 11 hrs 5 mins       █████░░░░░░░░░░░░░░░░░░░░   20.98 % 
+test                     4 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Hotakus                  1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+my-video                 38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+
+💻 Operating System: 
+Windows                  52 hrs 50 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 05/05/2026 02:35:59 UTC
 <!--END_SECTION:waka-->
 
 ---
