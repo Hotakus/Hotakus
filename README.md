@@ -62,25 +62,22 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C                        41 hrs 34 mins      █████████████████░░░░░░░░   67.27 % 
-Markdown                 14 hrs 34 mins      ██████░░░░░░░░░░░░░░░░░░░   23.57 % 
-C++                      2 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
-TypeScript               1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-JSON                     42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+C                        42 hrs 14 mins      ███████████████████░░░░░░   76.85 % 
+Markdown                 12 hrs 39 mins      ██████░░░░░░░░░░░░░░░░░░░   23.04 % 
+CMake                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🐱‍💻 Projects: 
-octo-foc                 38 hrs 19 mins      ████████████████░░░░░░░░░   62.02 % 
-esp32_tt                 16 hrs 31 mins      ███████░░░░░░░░░░░░░░░░░░   26.73 % 
-test                     4 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
-Hotakus                  1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
-my-video                 38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+octo-foc                 38 hrs 30 mins      ██████████████████░░░░░░░   70.07 % 
+esp32_tt                 16 hrs 26 mins      ███████░░░░░░░░░░░░░░░░░░   29.93 % 
 
 💻 Operating System: 
-Windows                  61 hrs 48 mins      █████████████████████████   100.00 % 
+Windows                  54 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 11/05/2026 19:43:26 UTC
+ Last Updated on 12/05/2026 02:48:37 UTC
 <!--END_SECTION:waka-->
 
 ---
