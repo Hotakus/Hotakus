@@ -62,22 +62,21 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C                        42 hrs 14 mins      ███████████████████░░░░░░   76.85 % 
-Markdown                 12 hrs 39 mins      ██████░░░░░░░░░░░░░░░░░░░   23.04 % 
-CMake                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+C                        31 hrs 10 mins      ██████████████████░░░░░░░   72.74 % 
+Markdown                 11 hrs 39 mins      ███████░░░░░░░░░░░░░░░░░░   27.19 % 
+CMake                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🐱‍💻 Projects: 
-octo-foc                 38 hrs 30 mins      ██████████████████░░░░░░░   70.07 % 
-esp32_tt                 16 hrs 26 mins      ███████░░░░░░░░░░░░░░░░░░   29.93 % 
+octo-foc                 30 hrs 21 mins      ██████████████████░░░░░░░   70.85 % 
+esp32_tt                 12 hrs 29 mins      ███████░░░░░░░░░░░░░░░░░░   29.15 % 
 
 💻 Operating System: 
-Windows                  54 hrs 57 mins      █████████████████████████   100.00 % 
+Windows                  42 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 12/05/2026 14:20:32 UTC
+ Last Updated on 12/05/2026 19:48:19 UTC
 <!--END_SECTION:waka-->
 
 ---
