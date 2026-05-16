@@ -62,24 +62,24 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C                        18 hrs 8 mins       █████████████████░░░░░░░░   67.53 % 
-Markdown                 5 hrs               █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
-TypeScript               3 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
-Other                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
-CMake                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+C                        15 hrs 41 mins      █████████████░░░░░░░░░░░░   50.84 % 
+Markdown                 5 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
+TypeScript               3 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+Other                    3 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+JSON                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
 
 🐱‍💻 Projects: 
-octo-foc                 12 hrs 58 mins      ████████████░░░░░░░░░░░░░   48.28 % 
-esp32_tt                 9 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   36.86 % 
-hotakus-remotion-template3 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-Hotakus                  14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+octo-foc                 13 hrs 31 mins      ███████████░░░░░░░░░░░░░░   43.83 % 
+esp32_tt                 12 hrs 32 mins      ██████████░░░░░░░░░░░░░░░   40.60 % 
+hotakus-remotion-template3 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
+Hotakus                  1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
 
 💻 Operating System: 
-Windows                  26 hrs 52 mins      █████████████████████████   100.00 % 
+Windows                  30 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 15/05/2026 19:26:54 UTC
+ Last Updated on 16/05/2026 02:45:16 UTC
 <!--END_SECTION:waka-->
 
 ---
