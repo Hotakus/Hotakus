@@ -56,31 +56,8 @@
 ---
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-C                        11 hrs 47 mins      ████████░░░░░░░░░░░░░░░░░   31.06 % 
-Markdown                 10 hrs 57 mins      ███████░░░░░░░░░░░░░░░░░░   28.86 % 
-Other                    4 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
-TypeScript               3 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
-GDScript3                2 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
-
-🐱‍💻 Projects: 
-octo-foc                 12 hrs 57 mins      █████████░░░░░░░░░░░░░░░░   34.15 % 
-esp32_tt                 11 hrs 31 mins      ████████░░░░░░░░░░░░░░░░░   30.34 % 
-godot_game               8 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   21.33 % 
-hotakus-remotion-template3 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
-Hotakus                  1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
-
-💻 Operating System: 
-Windows                  37 hrs 57 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 17/05/2026 13:16:21 UTC
+ Last Updated on 17/05/2026 19:05:46 UTC
 <!--END_SECTION:waka-->
 
 ---
