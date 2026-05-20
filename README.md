@@ -62,25 +62,25 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 24 hrs 46 mins      ████████████░░░░░░░░░░░░░   47.04 % 
-Other                    6 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
-TypeScript               5 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
-JSON                     5 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
-C                        4 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+Markdown                 26 hrs 23 mins      ███████████░░░░░░░░░░░░░░   45.37 % 
+TypeScript               7 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+JSON                     6 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+Other                    6 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+C                        4 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
 
 🐱‍💻 Projects: 
-godot_game               21 hrs 52 mins      ██████████░░░░░░░░░░░░░░░   41.53 % 
-esp32_tt                 11 hrs 38 mins      ██████░░░░░░░░░░░░░░░░░░░   22.12 % 
-octo-foc                 7 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
-hotakus-remotion-template3 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Clang                    3 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+godot_game               22 hrs 48 mins      ██████████░░░░░░░░░░░░░░░   39.19 % 
+esp32_tt                 11 hrs 38 mins      █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
+octo-foc                 7 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
+opencode-visual-cache    4 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+hotakus-remotion-template3 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
 
 💻 Operating System: 
-Windows                  52 hrs 39 mins      █████████████████████████   100.00 % 
+Windows                  58 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 19/05/2026 19:49:49 UTC
+ Last Updated on 20/05/2026 03:25:28 UTC
 <!--END_SECTION:waka-->
 
 ---
