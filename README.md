@@ -62,24 +62,24 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               14 hrs 17 mins      ████████████████░░░░░░░░░   65.65 % 
-Markdown                 4 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
-JSON                     3 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-Other                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+TypeScript               12 hrs 57 mins      █████████████████░░░░░░░░   67.87 % 
+Markdown                 4 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+JSON                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+Other                    24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🐱‍💻 Projects: 
-opencode-visual-cache    10 hrs 44 mins      ████████████░░░░░░░░░░░░░   49.35 % 
-opencode-subagent-monitor8 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   37.74 % 
-game_design              2 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
-skills                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+opencode-subagent-monitor8 hrs 47 mins       ███████████░░░░░░░░░░░░░░   45.97 % 
+opencode-visual-cache    8 hrs 39 mins       ███████████░░░░░░░░░░░░░░   45.34 % 
+game_design              1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+skills                   39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
 
 💻 Operating System: 
-Windows                  21 hrs 45 mins      █████████████████████████   100.00 % 
+Windows                  19 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 29/05/2026 20:22:14 UTC
+ Last Updated on 30/05/2026 02:53:26 UTC
 <!--END_SECTION:waka-->
 
 ---
