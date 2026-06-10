@@ -62,25 +62,22 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 1 min         █████████████████████░░░░   83.52 % 
-Git Config               10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
-TypeScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
-JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+TypeScript               6 hrs 1 min         ██████████████████████░░░   89.83 % 
+Markdown                 31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
+JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 
 🐱‍💻 Projects: 
-skills                   1 hr 16 mins        █████████████░░░░░░░░░░░░   52.48 % 
-opencode                 42 mins             ███████░░░░░░░░░░░░░░░░░░   29.00 % 
-oc                       15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
-XialloControl            7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
-Unknown Project          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+opencode-subagent-monitor5 hrs 19 mins       ████████████████████░░░░░   79.48 % 
+opencode-visual-cache    1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
+opencode                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+skills                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 
 💻 Operating System: 
-Windows                  2 hrs 25 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 10/06/2026 15:30:00 UTC
+ Last Updated on 10/06/2026 20:27:14 UTC
 <!--END_SECTION:waka-->
 
 ---
