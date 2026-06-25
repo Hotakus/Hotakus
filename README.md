@@ -62,17 +62,25 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    2 hrs 9 mins        ██████████░░░░░░░░░░░░░░░   41.22 % 
+TypeScript               1 hr 43 mins        ████████░░░░░░░░░░░░░░░░░   32.69 % 
+JSON                     44 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
+PowerShell               37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+opencode-subagent-monitor1 hr 43 mins        ████████░░░░░░░░░░░░░░░░░   32.69 % 
+npm                      1 hr 35 mins        ████████░░░░░░░░░░░░░░░░░   30.37 % 
+opencode-visual-cache    1 hr 23 mins        ███████░░░░░░░░░░░░░░░░░░   26.51 % 
+opencode                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+Unknown Project          14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  5 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 25/06/2026 14:28:29 UTC
+ Last Updated on 25/06/2026 19:57:17 UTC
 <!--END_SECTION:waka-->
 
 ---
