@@ -62,24 +62,25 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               10 hrs 22 mins      ████████████░░░░░░░░░░░░░   47.18 % 
-Other                    5 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   26.30 % 
-JSON                     3 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-Markdown                 2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
-JavaScript               17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+TypeScript               4 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   29.00 % 
+Other                    3 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   22.77 % 
+Markdown                 3 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
+JSON                     2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+Rust                     1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
 
 🐱‍💻 Projects: 
-opencode-subagent-monitor11 hrs 47 mins      █████████████░░░░░░░░░░░░   53.58 % 
-npm                      6 hrs 53 mins       ████████░░░░░░░░░░░░░░░░░   31.32 % 
-opencode-visual-cache    1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
-opencode                 1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+opencode-subagent-monitor5 hrs 52 mins       █████████░░░░░░░░░░░░░░░░   34.66 % 
+npm                      3 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   22.60 % 
+XialloControl            3 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   20.96 % 
+skills                   1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+opencode                 1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
 
 💻 Operating System: 
-Windows                  22 hrs              █████████████████████████   100.00 % 
+Windows                  16 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 03/07/2026 13:59:03 UTC
+ Last Updated on 03/07/2026 19:18:20 UTC
 <!--END_SECTION:waka-->
 
 ---
