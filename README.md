@@ -62,25 +62,25 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               3 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   24.86 % 
-Markdown                 3 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
-Other                    2 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
-Rust                     1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
-JSON                     1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+Other                    3 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
+TypeScript               3 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
+Rust                     3 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
+Markdown                 2 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+JSON                     1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
 
 🐱‍💻 Projects: 
-opencode-subagent-monitor4 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   30.08 % 
-XialloControl            4 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   28.99 % 
-npm                      2 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
-skills                   1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
-opencode                 57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+XialloControl            8 hrs 46 mins       ████████████░░░░░░░░░░░░░   48.75 % 
+opencode-subagent-monitor4 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   23.09 % 
+npm                      2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
+skills                   1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+opencode                 43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 
 💻 Operating System: 
-Windows                  14 hrs 28 mins      █████████████████████████   100.00 % 
+Windows                  17 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 05/07/2026 13:26:13 UTC
+ Last Updated on 05/07/2026 19:14:15 UTC
 <!--END_SECTION:waka-->
 
 ---
