@@ -56,8 +56,31 @@
 ---
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 04/07/2026 19:08:50 UTC
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+TypeScript               3 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   24.86 % 
+Markdown                 3 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
+Other                    2 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
+Rust                     1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+JSON                     1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+
+🐱‍💻 Projects: 
+opencode-subagent-monitor4 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   30.08 % 
+XialloControl            4 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   28.99 % 
+npm                      2 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
+skills                   1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+opencode                 57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+
+💻 Operating System: 
+Windows                  14 hrs 28 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 05/07/2026 02:54:03 UTC
 <!--END_SECTION:waka-->
 
 ---
