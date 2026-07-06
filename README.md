@@ -62,25 +62,24 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    3 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
-TypeScript               3 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
-Rust                     3 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
-Markdown                 2 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
-JSON                     1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
+Rust                     4 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   37.17 % 
+Markdown                 2 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   24.60 % 
+Other                    1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+JSON                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+Git Config               48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
 
 🐱‍💻 Projects: 
-XialloControl            8 hrs 46 mins       ████████████░░░░░░░░░░░░░   48.75 % 
-opencode-subagent-monitor4 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   23.09 % 
-npm                      2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
-skills                   1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-opencode                 43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+XialloControl            9 hrs 27 mins       █████████████████████░░░░   83.59 % 
+skills                   1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+gilrs                    32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+npm                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 
 💻 Operating System: 
-Windows                  17 hrs 59 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/07/2026 15:27:14 UTC
+ Last Updated on 06/07/2026 19:52:39 UTC
 <!--END_SECTION:waka-->
 
 ---
