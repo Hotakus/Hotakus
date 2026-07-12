@@ -62,25 +62,25 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     6 hrs 57 mins       ███████████████░░░░░░░░░░   59.97 % 
-Other                    1 hr 39 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-Markdown                 1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
-JSON                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
-JSON5                    29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+Rust                     6 hrs 59 mins       ███████████████░░░░░░░░░░   60.12 % 
+Other                    1 hr 40 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+Markdown                 1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
+JSON                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+JSON5                    33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
 
 🐱‍💻 Projects: 
-XialloControl            8 hrs 30 mins       ██████████████████░░░░░░░   73.33 % 
-gilrs                    2 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
-skills                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
-octo-foc                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+XialloControl            8 hrs 28 mins       ██████████████████░░░░░░░   72.87 % 
+gilrs                    2 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
+skills                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+octo-foc                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
 empty                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 
 💻 Operating System: 
-Windows                  11 hrs 35 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 11/07/2026 18:59:27 UTC
+ Last Updated on 12/07/2026 02:34:19 UTC
 <!--END_SECTION:waka-->
 
 ---
