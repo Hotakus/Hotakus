@@ -64,23 +64,41 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    27 mins             ██████████████████████░░░   88.41 % 
+JSON                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+opencode-subagent-monitor27 mins             ██████████████████████░░░   88.41 % 
+opencode                 3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  30 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 30 mins (100.0%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 201,353 Input Tokens, 5,495 Output Tokens
+
+💵 $0.69 Estimated AI Cost This Week
+
+🧠 5 AI Sessions, 10 AI Prompts
+
+Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 242 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 28/07/2026 14:01:10 UTC
+ Last Updated on 28/07/2026 19:19:23 UTC
 <!--END_SECTION:waka-->
 
 ---
