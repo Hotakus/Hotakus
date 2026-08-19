@@ -64,48 +64,48 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               13 hrs 53 mins      ████████████░░░░░░░░░░░░░   48.29 % 
-JSON                     4 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
-Markdown                 4 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
-PowerShell               2 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
-JavaScript               1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+TypeScript               9 hrs 31 mins       ███████████░░░░░░░░░░░░░░   43.15 % 
+JSON                     4 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
+PowerShell               2 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+Markdown                 2 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+JavaScript               1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
 
 🐱‍💻 Projects: 
-opencode-visual-cache    22 hrs 5 mins       ███████████████████░░░░░░   76.82 % 
-opencode                 3 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
-opencode-subagent-monitor2 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
-skills                   45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
-Unknown Project          11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+opencode-visual-cache    15 hrs 52 mins      ██████████████████░░░░░░░   71.95 % 
+opencode                 3 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+opencode-subagent-monitor2 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
+skills                   35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+Unknown Project          11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 
 💻 Operating System: 
-Windows                  28 hrs 46 mins      █████████████████████████   100.00 % 
+Windows                  22 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 27 hrs 51 mins (96.81%)
+⏱ AI Coding Time: 21 hrs 9 mins (95.93%)
 
-✍️ 4,949 lines written by AI, 25 lines written by hand (99.5% AI-written)
+✍️ 3,665 lines written by AI, 25 lines written by hand (99.32% AI-written)
 
-🔤 8,553,003 Input Tokens, 1,533,533 Output Tokens
+🔤 6,552,068 Input Tokens, 1,445,102 Output Tokens
 
-💵 $2011.96 Estimated AI Cost This Week
+💵 $1992.71 Estimated AI Cost This Week
 
-🧠 43 AI Sessions, 578 AI Prompts
+🧠 35 AI Sessions, 422 AI Prompts
 
-Deepseek                 6,310 lines         █████████████████████████   100.00 % 
+Deepseek                 4,200 lines         █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.5% of written lines came from AI
-📝 Concise Prompter — average 181 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
-🚀 High AI Trust — 1.36% of changed lines were hand-edited
+🤖 AI-Driven — 99.32% of written lines came from AI
+📝 Concise Prompter — average 240 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🚀 High AI Trust — 1.91% of changed lines were hand-edited
 ```
 
 
- Last Updated on 18/08/2026 18:34:12 UTC
+ Last Updated on 19/08/2026 01:05:56 UTC
 <!--END_SECTION:waka-->
 
 ---
