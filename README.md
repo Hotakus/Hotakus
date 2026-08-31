@@ -64,46 +64,25 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 18 mins             █████████████░░░░░░░░░░░░   53.66 % 
-JSON                     12 mins             █████████░░░░░░░░░░░░░░░░   37.70 % 
-Other                    2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+JSON                     12 mins             ████████████████████░░░░░   81.34 % 
+Other                    2 mins              █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
 
 🐱‍💻 Projects: 
-opencode-visual-cache    14 mins             ███████████░░░░░░░░░░░░░░   42.38 % 
-opencode-subagent-monitor12 mins             █████████░░░░░░░░░░░░░░░░   37.70 % 
-opencode                 3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
-Unknown Project          2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-skills                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+opencode-subagent-monitor12 mins             ████████████████████░░░░░   81.34 % 
+Unknown Project          2 mins              █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
 
 💻 Operating System: 
-Windows                  34 mins             █████████████████████████   100.00 % 
+Windows                  15 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 mins (53.66%)
-
-✍️ 15 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 427,705 Input Tokens, 23,781 Output Tokens
-
-💵 $24.52 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 8 AI Prompts
-
-Deepseek                 15 lines            █████████████████████████   100.00 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 25 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 31/08/2026 12:42:32 UTC
+ Last Updated on 31/08/2026 22:27:00 UTC
 <!--END_SECTION:waka-->
 
 ---
