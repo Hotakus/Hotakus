@@ -64,25 +64,47 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JSON                     12 mins             ████████████████████░░░░░   81.34 % 
-Other                    2 mins              █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
+JSON                     1 hr 43 mins        ████████████░░░░░░░░░░░░░   47.00 % 
+JavaScript               1 hr 2 mins         ███████░░░░░░░░░░░░░░░░░░   28.36 % 
+PowerShell               25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
+Markdown                 22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 
 🐱‍💻 Projects: 
-opencode-subagent-monitor12 mins             ████████████████████░░░░░   81.34 % 
-Unknown Project          2 mins              █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
+opencode-visual-cache    1 hr 53 mins        █████████████░░░░░░░░░░░░   51.48 % 
+opencode                 1 hr 30 mins        ██████████░░░░░░░░░░░░░░░   41.24 % 
+opencode-subagent-monitor12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
 
 💻 Operating System: 
-Windows                  15 mins             █████████████████████████   100.00 % 
+Windows                  3 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 2 hrs 43 mins (74.26%)
+
+✍️ 19 lines written by AI, 31 lines written by hand (38.0% AI-written)
+
+🔤 1,359,656 Input Tokens, 168,942 Output Tokens
+
+💵 $104.30 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 52 AI Prompts
+
+Deepseek                 19 lines            █████████████████████████   100.00 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+⚖️ Balanced with AI — 38.0% of written lines came from AI
+📝 Concise Prompter — average 136 characters per prompt
+🔁 Iterative Prompter — average 52 prompts per session
+🔍 Hands-On Reviewer — 77.11% of changed lines were hand-edited
 ```
 
 
- Last Updated on 02/09/2026 15:57:59 UTC
+ Last Updated on 02/09/2026 20:30:08 UTC
 <!--END_SECTION:waka-->
 
 ---
