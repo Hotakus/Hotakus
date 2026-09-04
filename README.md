@@ -64,26 +64,24 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JSON                     1 hr 43 mins        ████████████░░░░░░░░░░░░░   47.00 % 
-JavaScript               1 hr 2 mins         ███████░░░░░░░░░░░░░░░░░░   28.36 % 
-PowerShell               25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
-Markdown                 22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
-YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+JSON                     1 hr 30 mins        ███████████░░░░░░░░░░░░░░   44.31 % 
+JavaScript               1 hr 2 mins         ████████░░░░░░░░░░░░░░░░░   30.58 % 
+PowerShell               25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+Markdown                 22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 
 🐱‍💻 Projects: 
-opencode-visual-cache    1 hr 53 mins        █████████████░░░░░░░░░░░░   51.48 % 
-opencode                 1 hr 30 mins        ██████████░░░░░░░░░░░░░░░   41.24 % 
-opencode-subagent-monitor12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+opencode-visual-cache    1 hr 53 mins        ██████████████░░░░░░░░░░░   55.52 % 
+opencode                 1 hr 30 mins        ███████████░░░░░░░░░░░░░░   44.48 % 
 
 💻 Operating System: 
-Windows                  3 hrs 39 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 43 mins (74.26%)
+⏱ AI Coding Time: 2 hrs 43 mins (80.09%)
 
 ✍️ 19 lines written by AI, 31 lines written by hand (38.0% AI-written)
 
@@ -104,7 +102,7 @@ Opencode-Cli             0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 04/09/2026 15:45:35 UTC
+ Last Updated on 04/09/2026 20:16:36 UTC
 <!--END_SECTION:waka-->
 
 ---
