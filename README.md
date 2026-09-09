@@ -64,45 +64,40 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JSON                     1 hr 30 mins        ███████████░░░░░░░░░░░░░░   44.31 % 
-JavaScript               1 hr 2 mins         ████████░░░░░░░░░░░░░░░░░   30.58 % 
-PowerShell               25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
-Markdown                 22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
-YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+Markdown                 25 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-opencode-visual-cache    1 hr 53 mins        ██████████████░░░░░░░░░░░   55.52 % 
-opencode                 1 hr 30 mins        ███████████░░░░░░░░░░░░░░   44.48 % 
+opencode                 25 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 23 mins       █████████████████████████   100.00 % 
+Windows                  25 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 43 mins (80.09%)
+⏱ AI Coding Time: 25 mins (100.0%)
 
-✍️ 19 lines written by AI, 31 lines written by hand (38.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 1,359,656 Input Tokens, 168,942 Output Tokens
+🔤 124,228 Input Tokens, 62,435 Output Tokens
 
-💵 $104.30 Estimated AI Cost This Week
+💵 $12.59 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 52 AI Prompts
+🧠 1 AI Sessions, 9 AI Prompts
 
-Deepseek                 19 lines            █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 38.0% of written lines came from AI
-📝 Concise Prompter — average 136 characters per prompt
-🔁 Iterative Prompter — average 52 prompts per session
-🔍 Hands-On Reviewer — 77.11% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 40 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 09/09/2026 15:56:00 UTC
+ Last Updated on 09/09/2026 20:24:56 UTC
 <!--END_SECTION:waka-->
 
 ---
