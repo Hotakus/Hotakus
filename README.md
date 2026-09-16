@@ -64,45 +64,45 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 40 mins        ██████████████████░░░░░░░   70.96 % 
-TypeScript               23 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
-JSON                     16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+Markdown                 51 mins             ██████████████░░░░░░░░░░░   56.17 % 
+TypeScript               23 mins             ██████░░░░░░░░░░░░░░░░░░░   25.42 % 
+JSON                     15 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 
 🐱‍💻 Projects: 
-opencode-subagent-monitor52 mins             █████████░░░░░░░░░░░░░░░░   37.31 % 
-opencode                 47 mins             ████████░░░░░░░░░░░░░░░░░   33.35 % 
-skills                   41 mins             ███████░░░░░░░░░░░░░░░░░░   29.34 % 
+opencode-subagent-monitor40 mins             ███████████░░░░░░░░░░░░░░   44.20 % 
+skills                   30 mins             ████████░░░░░░░░░░░░░░░░░   32.95 % 
+opencode                 20 mins             ██████░░░░░░░░░░░░░░░░░░░   22.84 % 
 
 💻 Operating System: 
-Windows                  2 hrs 21 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 31 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 18 mins (98.14%)
+⏱ AI Coding Time: 1 hr 28 mins (97.12%)
 
-✍️ 255 lines written by AI, 1 lines written by hand (99.61% AI-written)
+✍️ 250 lines written by AI, 1 lines written by hand (99.6% AI-written)
 
-🔤 1,388,990 Input Tokens, 298,942 Output Tokens
+🔤 981,840 Input Tokens, 226,119 Output Tokens
 
-💵 $132.11 Estimated AI Cost This Week
+💵 $112.40 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 47 AI Prompts
+🧠 2 AI Sessions, 29 AI Prompts
 
-Deepseek                 290 lines           █████████████████████████   100.00 % 
+Deepseek                 285 lines           █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.61% of written lines came from AI
-📝 Concise Prompter — average 203 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.34% of changed lines were hand-edited
+🤖 AI-Driven — 99.6% of written lines came from AI
+📝 Concise Prompter — average 29 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
+🚀 High AI Trust — 0.35% of changed lines were hand-edited
 ```
 
 
- Last Updated on 16/09/2026 16:08:34 UTC
+ Last Updated on 16/09/2026 20:52:21 UTC
 <!--END_SECTION:waka-->
 
 ---
