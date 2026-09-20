@@ -64,25 +64,25 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 12 mins             ████████████████████████░   95.46 % 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+JSON                     54 mins             ████████████████████░░░░░   81.54 % 
+Markdown                 12 mins             █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-opencode-visual-cache    8 mins              ████████████████░░░░░░░░░   62.84 % 
-awesome-ai-plugins       4 mins              ████████░░░░░░░░░░░░░░░░░   32.64 % 
-opencode                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+opencode                 54 mins             ████████████████████░░░░░   81.54 % 
+opencode-visual-cache    8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+awesome-ai-plugins       4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
 
 💻 Operating System: 
-Windows                  12 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 6 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 mins (95.48%)
+⏱ AI Coding Time: 12 mins (18.46%)
 
-✍️ 45 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 45 lines written by AI, 54 lines written by hand (45.45% AI-written)
 
 🔤 220,809 Input Tokens, 60,589 Output Tokens
 
@@ -94,14 +94,14 @@ Deepseek                 45 lines            ███████████�
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
+⚖️ Balanced with AI — 45.45% of written lines came from AI
 📝 Concise Prompter — average 20 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 78.67% of changed lines were hand-edited
 ```
 
 
- Last Updated on 20/09/2026 15:27:07 UTC
+ Last Updated on 20/09/2026 20:19:41 UTC
 <!--END_SECTION:waka-->
 
 ---
