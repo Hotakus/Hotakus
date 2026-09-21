@@ -64,25 +64,25 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JSON                     54 mins             ████████████████████░░░░░   81.54 % 
-Markdown                 12 mins             █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
+JSON                     1 hr 25 mins        ██████████████████████░░░   87.38 % 
+Markdown                 12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-opencode                 54 mins             ████████████████████░░░░░   81.54 % 
-opencode-visual-cache    8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-awesome-ai-plugins       4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
+opencode                 1 hr 25 mins        ██████████████████████░░░   87.38 % 
+opencode-visual-cache    8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+awesome-ai-plugins       4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
 
 💻 Operating System: 
-Windows                  1 hr 6 mins         █████████████████████████   100.00 % 
+Windows                  1 hr 37 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 mins (18.46%)
+⏱ AI Coding Time: 12 mins (12.62%)
 
-✍️ 45 lines written by AI, 54 lines written by hand (45.45% AI-written)
+✍️ 45 lines written by AI, 60 lines written by hand (42.86% AI-written)
 
 🔤 220,809 Input Tokens, 60,589 Output Tokens
 
@@ -94,14 +94,14 @@ Deepseek                 45 lines            ███████████�
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 45.45% of written lines came from AI
+⚖️ Balanced with AI — 42.86% of written lines came from AI
 📝 Concise Prompter — average 20 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 78.67% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 80.6% of changed lines were hand-edited
 ```
 
 
- Last Updated on 21/09/2026 12:00:42 UTC
+ Last Updated on 21/09/2026 21:41:55 UTC
 <!--END_SECTION:waka-->
 
 ---
