@@ -64,29 +64,30 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JSON                     1 hr 36 mins        ██████████████████████░░░   88.65 % 
-Markdown                 12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+JSON                     1 hr 42 mins        ██████████████████████░░░   89.26 % 
+Markdown                 12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-opencode                 1 hr 36 mins        ██████████████████████░░░   88.65 % 
-opencode-visual-cache    8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
-awesome-ai-plugins       4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+opencode                 1 hr 36 mins        █████████████████████░░░░   83.86 % 
+opencode-visual-cache    8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
+Unknown Project          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+awesome-ai-plugins       4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
 
 💻 Operating System: 
-Windows                  1 hr 48 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 55 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 mins (11.35%)
+⏱ AI Coding Time: 12 mins (10.74%)
 
 ✍️ 45 lines written by AI, 61 lines written by hand (42.45% AI-written)
 
-🔤 220,809 Input Tokens, 60,589 Output Tokens
+🔤 237,129 Input Tokens, 82,525 Output Tokens
 
-💵 $23.88 Estimated AI Cost This Week
+💵 $29.70 Estimated AI Cost This Week
 
 🧠 2 AI Sessions, 6 AI Prompts
 
@@ -101,7 +102,7 @@ Opencode-Cli             0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 25/09/2026 16:32:40 UTC
+ Last Updated on 25/09/2026 21:05:42 UTC
 <!--END_SECTION:waka-->
 
 ---
