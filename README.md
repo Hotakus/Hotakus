@@ -64,24 +64,49 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JSON                     1 hr 42 mins        █████████████████████████   100.00 % 
+TypeScript               3 hrs 53 mins       ██████████░░░░░░░░░░░░░░░   41.68 % 
+JSON                     2 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   23.04 % 
+PowerShell               1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+Markdown                 1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+Other                    40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
 
 🐱‍💻 Projects: 
-opencode                 1 hr 35 mins        ███████████████████████░░   93.91 % 
-Unknown Project          6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+opencode-visual-cache    4 hrs 2 mins        ███████████░░░░░░░░░░░░░░   43.29 % 
+Unknown Project          2 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   29.61 % 
+opencode-subagent-monitor56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+opencode                 45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+profile.ps1              40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
 
 💻 Operating System: 
-Windows                  1 hr 42 mins        █████████████████████████   100.00 % 
+Windows                  9 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 6 hrs 1 min (64.47%)
+
+✍️ 659 lines written by AI, 358 lines written by hand (64.8% AI-written)
+
+🔤 1,798,201 Input Tokens, 596,562 Output Tokens
+
+💵 $424.50 Estimated AI Cost This Week
+
+🧠 21 AI Sessions, 125 AI Prompts
+
+Opencode-Cli             697 lines           █████████████████████████   99.71 % 
+Nemotron                 2 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+K                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+⚖️ Balanced with AI — 64.8% of written lines came from AI
+📝 Concise Prompter — average 41 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 38.58% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/09/2026 16:24:09 UTC
+ Last Updated on 27/09/2026 20:53:10 UTC
 <!--END_SECTION:waka-->
 
 ---
