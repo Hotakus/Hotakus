@@ -64,49 +64,49 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               3 hrs 53 mins       ██████████░░░░░░░░░░░░░░░   41.68 % 
-JSON                     2 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   23.04 % 
-PowerShell               1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-Markdown                 1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
-Other                    40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
+TypeScript               2 hrs 40 mins       ██████████░░░░░░░░░░░░░░░   40.53 % 
+JSON                     1 hr 44 mins        ███████░░░░░░░░░░░░░░░░░░   26.38 % 
+PowerShell               1 hr 16 mins        █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
+Other                    33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
 
 🐱‍💻 Projects: 
-opencode-visual-cache    4 hrs 2 mins        ███████████░░░░░░░░░░░░░░   43.29 % 
-Unknown Project          2 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   29.61 % 
-opencode-subagent-monitor56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-opencode                 45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
-profile.ps1              40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
+Unknown Project          2 hrs 45 mins       ██████████░░░░░░░░░░░░░░░   41.99 % 
+opencode-visual-cache    1 hr 51 mins        ███████░░░░░░░░░░░░░░░░░░   28.10 % 
+opencode-subagent-monitor49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+opencode                 33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+profile.ps1              33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
 
 💻 Operating System: 
-Windows                  9 hrs 20 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 1 min (64.47%)
+⏱ AI Coding Time: 3 hrs 26 mins (52.3%)
 
-✍️ 659 lines written by AI, 358 lines written by hand (64.8% AI-written)
+✍️ 41 lines written by AI, 352 lines written by hand (10.43% AI-written)
 
-🔤 1,798,201 Input Tokens, 596,562 Output Tokens
+🔤 1,410,763 Input Tokens, 246,255 Output Tokens
 
-💵 $424.50 Estimated AI Cost This Week
+💵 $152.50 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 125 AI Prompts
+🧠 18 AI Sessions, 82 AI Prompts
 
-Opencode-Cli             697 lines           █████████████████████████   99.71 % 
-Nemotron                 2 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Opencode-Cli             49 lines            ████████████████████████░   96.08 % 
+Nemotron                 2 lines             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
 K                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 64.8% of written lines came from AI
-📝 Concise Prompter — average 41 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 38.58% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 10.43% of written lines came from AI
+📝 Concise Prompter — average 42 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 89.13% of changed lines were hand-edited
 ```
 
 
- Last Updated on 28/09/2026 12:55:21 UTC
+ Last Updated on 28/09/2026 22:56:08 UTC
 <!--END_SECTION:waka-->
 
 ---
