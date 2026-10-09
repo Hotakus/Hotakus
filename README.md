@@ -64,44 +64,46 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    1 hr 13 mins        ██████████████░░░░░░░░░░░   57.54 % 
-TypeScript               46 mins             █████████░░░░░░░░░░░░░░░░   35.99 % 
-JavaScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
-JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+Other                    1 hr 13 mins        ██████████░░░░░░░░░░░░░░░   40.94 % 
+TypeScript               1 hr 13 mins        ██████████░░░░░░░░░░░░░░░   40.56 % 
+JavaScript               21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+JSON                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
 
 🐱‍💻 Projects: 
-opencode-subagent-monitor2 hrs 5 mins        ████████████████████████░   97.94 % 
-opencode                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-opencode-visual-cache    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+opencode-subagent-monitor2 hrs 56 mins       ████████████████████████░   97.89 % 
+opencode                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+opencode-visual-cache    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Windows                  2 hrs 8 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs               █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 3 mins (96.37%)
+⏱ AI Coding Time: 2 hrs 56 mins (97.42%)
 
-✍️ 7 lines written by AI, 16 lines written by hand (30.43% AI-written)
+✍️ 20 lines written by AI, 16 lines written by hand (55.56% AI-written)
 
-🔤 806,678 Input Tokens, 60,832 Output Tokens
+🔤 1,142,070 Input Tokens, 93,403 Output Tokens
 
-💵 $37.90 Estimated AI Cost This Week
+💵 $50.63 Estimated AI Cost This Week
 
-🧠 45 AI Sessions, 99 AI Prompts
+🧠 55 AI Sessions, 125 AI Prompts
 
-Longcat                  7 lines             █████████████████████████   100.00 % 
+MiMo                     13 lines            ████████████████░░░░░░░░░   65.00 % 
+Longcat                  7 lines             █████████░░░░░░░░░░░░░░░░   35.00 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 30.43% of written lines came from AI
-📝 Concise Prompter — average 62 characters per prompt
+⚖️ Balanced with AI — 55.56% of written lines came from AI
+📝 Concise Prompter — average 63 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 70.83% of changed lines were hand-edited
+🚀 High AI Trust — 45.95% of changed lines were hand-edited
 ```
 
 
- Last Updated on 09/10/2026 12:34:43 UTC
+ Last Updated on 09/10/2026 22:15:16 UTC
 <!--END_SECTION:waka-->
 
 ---
